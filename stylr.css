@@ -5,7 +5,7 @@
 
 body{
 
-    background-color: rgb(39, 101, 135);
+    background-color: rgb(30, 159, 229);
     text-align: center;
 }
 h1{
@@ -42,8 +42,8 @@ h1{
 #reset{
     padding: 1rem;
     font-size: 1.25rem;
-    background-color: gray;
-    color: #73c0e1;
+    background-color: rgb(0, 39, 75);
+    color: #e8e8e8;
     border-radius: 1rem;
     
 }
